@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Bucle.exe
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Bucle.deps.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Bucle.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Bucle.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Bucle.pdb
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.sourcelink.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\refint\Bucle.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.pdb
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Bucle.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\ref\Bucle.dll

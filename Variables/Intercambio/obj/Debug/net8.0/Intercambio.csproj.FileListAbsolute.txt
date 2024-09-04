@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.exe
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.deps.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.pdb
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.sourcelink.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\refint\Intercambio.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.pdb
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Intercambio\obj\Debug\net8.0\ref\Intercambio.dll

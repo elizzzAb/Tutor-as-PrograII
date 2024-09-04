@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Condisionales.exe
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Condisionales.deps.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Condisionales.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Condisionales.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\bin\Debug\net8.0\Condisionales.pdb
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.sourcelink.json
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\refint\Condisionales.dll
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.pdb
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\Condisionales.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\GitHubTutoriasPrograII\Tutor-as-PrograII\Variables\Bucle\obj\Debug\net8.0\ref\Condisionales.dll
